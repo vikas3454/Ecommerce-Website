@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ecommerce-website.git
+git clone https://github.com/vikas3454/ecommerce-website.git
 Open the project directory and launch the index.html file in your preferred browser.
 
 **Project Structure**
