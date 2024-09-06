@@ -28,16 +28,26 @@ Open the project directory and launch the index.html file in your preferred brow
 **Project Structure**
 
 Copy code
+
 ecommerce-website/
+
 │
 ├── css/
+
 │   └── styles.css
+
 ├── js/
+
 │   └── script.js
+
 ├── images/
+
 │   └── product1.jpg
+
 ├── index.html
+
 └── cart.html
+
 **How It Works**
 
 Product Listing: Products are dynamically displayed using HTML elements, styled with CSS, and their interactivity is handled using JavaScript.
